@@ -1,6 +1,6 @@
 # Hello World 🌍
 
-I am a Senior Android Engineer 🤖 and currently work at CASPAR Health in Berlin.
+I am a Senior Android Engineer 🤖
 
 You can reach me in these places:
 
